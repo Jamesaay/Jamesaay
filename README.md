@@ -1,5 +1,5 @@
 ![Header Image](/header.png "Header Image")
-### Hi there 👋
+### Welcome folks <img src="/wave.gif" width="30px">
 
 <!--
 **Jamesaay/Jamesaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
