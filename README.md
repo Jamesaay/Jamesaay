@@ -1,6 +1,13 @@
 ![Header Image](/header.png "Header Image")
-### Welcome folks <img src="/wave.gif" width="30px">
+# Welcome folks <img src="/wave.gif" width="30px">
 
+My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [![LinkedIn][1]]
+
+## Technologies and Tools
+
+## Things I am working on
+
+## Miscellaneous facts about me
 <!--
 **Jamesaay/Jamesaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://www.linkedin.com/in/james-on/
