@@ -32,7 +32,7 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ## Miscellaneous facts about me
 
-- Something more about me
+- Something more to tell about me and other people
 - I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
 - This would be my desired Pokémon team if it had no restrictions:
 
