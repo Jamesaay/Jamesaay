@@ -26,10 +26,14 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 ## Things I am working on
 
 - Web Portfolio: I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
-- 20 Games in 1: I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors
+- 20 Games in 1: I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
 - Content Creator Hub: In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc.
 
 ## Miscellaneous facts about me
 
-- I am an avid gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
-- Some of my favourite Pokémon are <img src ="/icons/pokemon/croagunk.png" title="Croagunk" width='45'/>   <img src ="/icons/pokemon/blastoise.png" title="Blatoise" width='45'/>   <img src ="/icons/pokemon/leafeon.png" title="Leafeon" width='45'/>
+- Something more about me
+- I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
+- Some of my favourite Pokémon are:
+<img src ="/icons/pokemon/croagunk.png" title="Croagunk" width='45'/>
+<img src ="/icons/pokemon/blastoise.png" title="Blatoise" width='45'/>
+<img src ="/icons/pokemon/leafeon.png" title="Leafeon" width='45'/>
