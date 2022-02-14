@@ -1,7 +1,7 @@
 ![Header Image](/images/header.png "Header Image")
 # Welcome folks <img src="/images/wave.gif" width="30px">
 
-My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [LinkedIn](https://www.linkedin.com/in/james-on/) and on [YouTube]().
+My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [LinkedIn](https://www.linkedin.com/in/james-on/).
 
 ## Technologies and Tools
 
@@ -27,11 +27,11 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 - **Web Portfolio:** I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
 - **20 Games in 1:** I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
-- **Twitch/Youtube Management Hub:** In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc. so I can better interact and keep track of the behind the scenes of the channel
-- **Pokémon Based Application:** TBD
+- **Twitch/Youtube Management Hub:** In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc. so I can better interact and keep track of the behind the scenes on the channel
+- **Pokémon Based Application:** I am a massive fan of Pokémon and would like to make sort of application that shows my love for the series and 
 
-## Miscellaneous facts about me
+## Fun trivia about me
 
-- Something more to tell about me and other people
-- Adding more things
-- I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
+- I currently live in Ireland but plan on moving to the Nordics in the future
+- I have lived all my life with a speech impediment called a stammer
+- I am an avid gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
