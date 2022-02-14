@@ -15,26 +15,25 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 <img src ="/icons/flutter-original.svg" title="Flutter" width='30'/>   <img src ="/icons/dart-original.svg" title="Dart" width='30'/>   <img src ="/icons/godot-original.svg" title="Godot" width='30'/>   <img src ="/icons/go-original.svg" title="GoLang" width='30'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='30'/>
 
-<img src ="/icons/firebase-plain.svg" title="Firebase" width='30'/>   <img src ="/icons/linux-original.svg" title="Linux" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='30'/>   <img src ="/icons/arduino-original.svg" title="Arduino" width='30'/>
+<img src ="/icons/firebase-plain.svg" title="Firebase" width='30'/>   <img src ="/icons/linux-original.svg" title="Linux" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='30'/>   <img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>
 
 ### Future
 
 <img src ="/icons/javascript-original.svg" title="Javascript" width='30'/>   <img src ="/icons/react-original.svg" title="React JS and Native" width='30'/>   <img src ="/icons/nextjs-original.svg" title="NextJS" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" title="TailwindCSS3" width='30'/>   
 
-<img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>   <img src ="/icons/unity-original.svg" title="Unity" width='30'/>
+<img src ="/icons/arduino-original.svg" title="Arduino" width='30'/>   <img src ="/icons/unity-original.svg" title="Unity" width='30'/>
 
 ## Upcoming Projects
 
-- Web Portfolio: I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
-- 20 Games in 1: I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
-- Content Creator Hub: In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc.
+- **Web Portfolio:** I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
+- **20 Games in 1:** I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
+- **Twitch/Youtube Management Hub:** In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc. so I can better interact and keep track of the behind the scenes of the channel
+- **Pokémon Based Application:** TBD
 
 ## Miscellaneous facts about me
 
 - Something more about me
 - I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
-- Some of my favourite Pokémon are below:
+- This would be my desired Pokémon team if it had no restrictions:
 
-![Croagunk](/icons/pokemon/croagunk.png)
-![Blastoise](/icons/pokemon/blastoise.png)
-![Shaymin](/icons/pokemon/shaymin.png)
+![Pokémon Team](/icons/pokemon/pokemon team.PNG)
