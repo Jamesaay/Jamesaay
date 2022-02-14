@@ -15,11 +15,11 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 <img src ="/icons/flutter-original.svg" width='30'/>   <img src ="/icons/dart-original.svg" width='30'/>   <img src ="/icons/godot-original.svg" width='30'/>   <img src ="/icons/go-original.svg" width='30'/>   <img src ="/icons/cplusplus-original.svg" width='30'/>
 
-<img src ="/icons/firebase-original.svg" width='30'/>   <img src ="/icons/linux-original.svg" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" width='30'/>   <img src ="/icons/arduino-original.svg" width='30'/>
+<img src ="/icons/firebase-plain.svg" width='30'/>   <img src ="/icons/linux-original.svg" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" width='30'/>   <img src ="/icons/arduino-original.svg" width='30'/>
 
 ### Future
 
-<img src ="/icons/javascript-original.svg" width='30'/>   <img src ="/icons/react-original.svg" width='30'/>   <img src ="/icons/nextjs-original.svg" width='30'/>   <img src ="/icons/tailwindcss3-original.svg" width='30'/>   <img src ="/icons/django-original.svg" width='30'/>   <img src ="/icons/flask-original.svg" width='30'/>   <img src ="/icons/unity-original.svg" width='30'/>
+<img src ="/icons/javascript-original.svg" width='30'/>   <img src ="/icons/react-original.svg" width='30'/>   <img src ="/icons/nextjs-original.svg" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" width='30'/>   <img src ="/icons/django-original.svg" width='30'/>   <img src ="/icons/flask-original.svg" width='30'/>   <img src ="/icons/unity-original.svg" width='30'/>
 
 ## Things I am working on
 
