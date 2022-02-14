@@ -7,7 +7,7 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ### Knowledgeable
 
-<img src ="/icons/java-original.svg" alt="Java" width='30'/>   <img src ="/icons/python-original.svg" width='30'/>   <img src ="/icons/csharp-original.svg" width='30'/>   <img src ="/icons/html5-original.svg" width='30'/>   <img src ="/icons/css3-original.svg" width='30'/>   <img src ="/icons/bash-original.svg" width='30'/>
+![Java](/icons/java-original.svg "Java")   <img src ="/icons/java-original.svg" alt="Java" width='30'/>   <img src ="/icons/python-original.svg" width='30'/>   <img src ="/icons/csharp-original.svg" width='30'/>   <img src ="/icons/html5-original.svg" width='30'/>   <img src ="/icons/css3-original.svg" width='30'/>   <img src ="/icons/bash-original.svg" width='30'/>
 
 <img src ="/icons/firefox-original.svg" width='30'/>   <img src ="/icons/chrome-original.svg" width='30'/>   <img src ="/icons/vscode-original.svg" width='30'/>   <img src ="/icons/intellij-original.svg" width='30'/>   <img src ="/icons/git-original.svg" width='30'/>   <img src ="/icons/github-original.svg" width='30'/>   <img src ="/icons/figma-original.svg" width='30'/>   <img src ="/icons/bitbucket-original.svg" width='30'/>   <img src ="/icons/jira-original.svg" width='30'/>
 
@@ -19,7 +19,9 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ### Future
 
-<img src ="/icons/javascript-original.svg" width='30'/>   <img src ="/icons/react-original.svg" width='30'/>   <img src ="/icons/nextjs-original.svg" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" width='30'/>   <img src ="/icons/django-original.svg" width='30'/>   <img src ="/icons/flask-original.svg" width='30'/>   <img src ="/icons/unity-original.svg" width='30'/>
+<img src ="/icons/javascript-original.svg" width='30'/>   <img src ="/icons/react-original.svg" width='30'/>   <img src ="/icons/nextjs-original.svg" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" width='30'/>   
+
+<img src ="/icons/django-original.svg" width='30'/>   <img src ="/icons/flask-original.svg" width='30'/>   <img src ="/icons/unity-original.svg" width='30'/>
 
 ## Things I am working on
 
