@@ -1,9 +1,17 @@
-![Header Image](/header.png "Header Image")
-# Welcome folks <img src="/wave.gif" width="30px">
+![Header Image](/images/header.png "Header Image")
+# Welcome folks <img src="/images/wave.gif" width="30px">
 
-My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [LinkedIn](https://www.linkedin.com/in/james-on/).
+My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [LinkedIn](https://www.linkedin.com/in/james-on/) and on [YouTube]().
 
 ## Technologies and Tools
+
+### Knowledgeable
+
+<img src ="/icons/java-original.svg" width='30'/> 
+
+### Learning
+
+### Future
 
 ## Things I am working on
 
@@ -22,7 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Useful links and tools -->
-[1]: /linkedin-3-16.png
-[1.1]: https://www.linkedin.com/in/james-on/
