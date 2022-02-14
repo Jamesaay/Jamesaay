@@ -13,7 +13,7 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ### Learning
 
-<img src ="/icons/flutter-original.svg" title="Flutter" width='30'/>   <img src ="/icons/dart-original.svg" title="Dart" width='30'/>   <img src ="/icons/godot-original.svg" title="Godot" width='30'/>   <img src ="/icons/go-original.svg" title="GoLang" width='30'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='30'/>
+<img src ="/icons/flutter-original.svg" title="Flutter" width='30'/>   <img src ="/icons/dart-original.svg" title="Dart" width='30'/>   <img src ="/icons/godot-original.svg" title="Godot" width='30'/>   <img src ="/icons/go-original.svg" title="Go" width='30'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='30'/>
 
 <img src ="/icons/firebase-plain.svg" title="Firebase" width='30'/>   <img src ="/icons/linux-original.svg" title="Linux" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='30'/>   <img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>
 
