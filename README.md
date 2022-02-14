@@ -36,4 +36,4 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 - I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
 - This would be my desired Pokémon team if it had no restrictions:
 
-![Pokémon Team](/icons/pokemon/pokemon team.PNG)
+![Pokémon Team](/icons/pokemon/pokemonTeam.png)
