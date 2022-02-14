@@ -7,9 +7,13 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ### Knowledgeable
 
-<img src ="/icons/java-original.svg" alt="Java" width='30'/> 
+<img src ="/icons/java-original.svg" width='30'/> <img src ="/icons/python-original.svg" width='30'/> <img src ="/icons/chsarp-original.svg" width='30'/> <img src ="/icons/html5-original.svg" width='30'/> <img src ="/icons/css3-original.svg" width='30'/>
+
+<img src ="/icons/firefox-original.svg" width='30'/> <img src ="/icons/chrome-original.svg" width='30'/> <img src ="/icons/vscode-original.svg" width='30'/> <img src ="/icons/intellij-original.svg" width='30'/> <img src ="/icons/git-original.svg" width='30'/> <img src ="/icons/github-original.svg" width='30'/> <img src ="/icons/figma-original.svg" width='30'/> <img src ="/icons/bitbucket-original.svg" width='30'/> <img src ="/icons/jira-original.svg" width='30'/>
 
 ### Learning
+
+<img src ="/icons/javascript-original.svg" width='30'/>
 
 ### Future
 
