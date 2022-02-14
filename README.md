@@ -7,7 +7,7 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ### Knowledgeable
 
-<img src ="/icons/java-original.svg" width='30' alt="Java"/> 
+<img src ="/icons/java-original.svg" alt="Java" width='30'/> 
 
 ### Learning
 
