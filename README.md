@@ -23,7 +23,7 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 <img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>   <img src ="/icons/unity-original.svg" title="Unity" width='30'/>
 
-## Things I am working on
+## Upcoming Projects
 
 - Web Portfolio: I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
 - 20 Games in 1: I would like to make a web application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
@@ -33,6 +33,8 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 - Something more about me
 - I am a prolific gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
-- Some of my favourite Pokémon are:
+- Some of my favourite Pokémon are below:
 
-- <img src ="/icons/pokemon/croagunk.png" title="Croagunk" />   <img src ="/icons/pokemon/blastoise.png" title="Blatoise" />   <img src ="/icons/pokemon/leafeon.png" title="Leafeon" />
+![Croagunk](/icons/pokemon/croagunk.png)
+![Blastoise](/icons/pokemon/blastoise.png)
+![Leafeon](/icons/pokemon/leafeon.png)
