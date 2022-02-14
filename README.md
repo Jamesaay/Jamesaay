@@ -31,4 +31,5 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ## Miscellaneous facts about me
 
-- I am an avid gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokemon, Super Mario, Borderlands and the Elder Scrolls
+- I am an avid gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
+- Some of my favourite Pokémon are <img src ="/icons/pokemon/croagunk.png" title="Croagunk" width='45'/>   <img src ="/icons/pokemon/blastoise.png" title="Blatoise" width='45'/>   <img src ="/icons/pokemon/leafeon.png" title="Leafeon" width='45'/>
