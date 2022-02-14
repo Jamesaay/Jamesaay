@@ -37,4 +37,4 @@ My name is James O'Neill and I'm a software developer from Ireland, currently li
 
 ![Croagunk](/icons/pokemon/croagunk.png)
 ![Blastoise](/icons/pokemon/blastoise.png)
-![Leafeon](/icons/pokemon/leafeon.png)
+![Shaymin](/icons/pokemon/shaymin.png)
