@@ -1,4 +1,4 @@
-![Header Image](/images/header1.png "Header Image")
+![Header Image](/images/header.png "Header Image")
 # Welcome folks <img src="/images/wave.gif" width="30px">
 
 My name is James O'Neill and I'm a software developer from Ireland, currently living in Derry and working for Alchemy Technology Services. You can find me on [LinkedIn](https://www.linkedin.com/in/james-on/).
