@@ -13,15 +13,15 @@ My name is James O'Neill and I'm a software developer from Ireland.
 
 ### Learning
 
-<img src ="/icons/kotlin-original.svg" title="Kotlin" width='30'/>   <img src ="/icons/flutter-original.svg" title="Flutter" width='30'/>   <img src ="/icons/dart-original.svg" title="Dart" width='30'/>   <img src ="/icons/javascript-original.svg" title="Javascript" width='30'/>   <img src ="/icons/react-original.svg" title="React JS and Native" width='30'/>   <img src ="/icons/godot-original.svg" title="Godot" width='30'/>
+<img src ="/icons/flutter-original.svg" title="Flutter" width='30'/>   <img src ="/icons/ionic-original.svg" title="Ionic" width='30'/>   <img src ="/icons/react-original.svg" title="React JS and Native" width='30'/>   <img src ="/icons/kotlin-original.svg" title="Kotlin" width='30'/>   <img src ="/icons/dart-original.svg" title="Dart" width='30'/>   <img src ="/icons/javascript-original.svg" title="Javascript" width='30'/>
 
-<img src ="/icons/android-original.svg" title="Android Studio" width='30'/>   <img src ="/icons/firebase-plain.svg" title="Firebase" width='30'/>   <img src ="/icons/linux-original.svg" title="Linux" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='30'/>
+<img src ="/icons/android-original.svg" title="Android Platform" width='30'/>   <img src ="/icons/firebase-plain.svg" title="Firebase" width='30'/>   <img src ="/icons/linux-original.svg" title="Linux" width='30'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='30'/>
 
 ### Future
 
-<img src ="/icons/go-original.svg" title="Go" width='30'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='30'/><img src ="/icons/nextjs-original.svg" title="NextJS" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" title="TailwindCSS3" width='30'/>   
+<img src ="/icons/godot-original.svg" title="Godot" width='30'/>   <img src ="/icons/go-original.svg" title="Go" width='30'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='30'/><img src ="/icons/nextjs-original.svg" title="NextJS" width='30'/>   <img src ="/icons/tailwindcss-plain.svg" title="TailwindCSS3" width='30'/>   
 
-<img src ="/icons/arduino-original.svg" title="Arduino" width='30'/>   <img src ="/icons/unity-original.svg" title="Unity" width='30'/> <img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>
+<img src ="/icons/arduino-original.svg" title="Arduino" width='30'/>   <img src ="/icons/unity-original.svg" title="Unity" width='30'/>   <img src ="/icons/django-original.svg" title="Django" width='30'/>   <img src ="/icons/flask-original.svg" title="Flask" width='30'/>
 
 ## Upcoming Projects
 
