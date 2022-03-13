@@ -1,7 +1,9 @@
 ![Header Image](/images/jamesaayBanner.png "Header Image")
 # Welcome folks <img src="/images/wave.gif" width="40px">
 
-My name is James O'Neill and I'm a software developer from Ireland.
+My name is James O'Neill and I'm a software developer from Ireland. Most of my interest for programming lie in the unknown and how we can come up with applications and tools to fit almost any purpose nowadays.
+
+I currently work in an InsureTech business using Java as the core backend language. When I leave this company I hope to explore mobile dev or cyber security while always having games dev in the back of my mind.
 
 ## Technologies and Tools
 
@@ -13,24 +15,24 @@ My name is James O'Neill and I'm a software developer from Ireland.
 
 ### Learning
 
-<img src ="/icons/flutter-original.svg" title="Flutter" width='40'/>   <img src ="/icons/ionic-original.svg" title="Ionic" width='40'/>   <img src ="/icons/react-original.svg" title="React JS and Native" width='40'/>   <img src ="/icons/kotlin-original.svg" title="Kotlin" width='40'/>   <img src ="/icons/groovy-original.svg" title="Groovy" width='40'/>   <img src ="/icons/dart-original.svg" title="Dart" width='40'/>   <img src ="/icons/javascript-original.svg" title="Javascript" width='40'/>
+<img src ="/icons/flutter-original.svg" title="Flutter" width='40'/>   <img src ="/icons/dart-original.svg" title="Dart" width='40'/>   <img src ="/icons/javascript-original.svg" title="Javascript" width='40'/>   <img src ="/icons/react-original.svg" title="React JS and Native" width='40'/>   <img src ="/icons/kotlin-original.svg" title="Kotlin" width='40'/>   <img src ="/icons/groovy-original.svg" title="Groovy" width='40'/>
 
 <img src ="/icons/android-original.svg" title="Android Platform" width='40'/>   <img src ="/icons/firebase-plain.svg" title="Firebase" width='40'/>   <img src ="/icons/linux-original.svg" title="Linux" width='40'/>   <img src ="/icons/amazonwebservices-original.svg" title="AWS" width='40'/>
 
 ### Future
 
-<img src ="/icons/godot-original.svg" title="Godot" width='40'/>   <img src ="/icons/go-original.svg" title="Go" width='40'/>   <img src ="/icons/nextjs-original.svg" title="NextJS" width='40'/>   <img src ="/icons/tailwindcss-plain.svg" title="TailwindCSS3" width='40'/>   <img src ="/icons/csharp-original.svg" title="C#" width='40'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='40'/>
+<img src ="/icons/godot-original.svg" title="Godot" width='40'/>   <img src ="/icons/go-original.svg" title="Go" width='40'/>   <img src ="/icons/nextjs-original.svg" title="NextJS" width='40'/>   <img src ="/icons/tailwindcss-plain.svg" title="TailwindCSS3" width='40'/>   <img src ="/icons/csharp-original.svg" title="C#" width='40'/>   <img src ="/icons/cplusplus-original.svg" title="C++" width='40'/>   <img src ="/icons/ionic-original.svg" title="Ionic" width='40'/>
 
 <img src ="/icons/arduino-original.svg" title="Arduino" width='40'/>   <img src ="/icons/unity-original.svg" title="Unity" width='40'/>   <img src ="/icons/django-original.svg" title="Django" width='40'/>   <img src ="/icons/flask-original.svg" title="Flask" width='40'/>
 
 ## Upcoming Projects
 
 - **Web Portfolio:** I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey, this may also house a blog
-    - This will probably be made using the Astro or Next.js framework
+    - *This will probably be made using the Astro or Next.js framework*
 - **20 Games in 1:** I would like to make a mobile application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
-    - This will be made as a cross platform application so will probably use **Flutter** and will be the one of first big ventures into mobile development with an aim to provide a mobile and tablet based experience across many fan-favourite games
+    - *This will be made as a cross platform application so will probably use **Flutter** and will be the one of first big ventures into mobile development with an aim to provide a mobile and tablet based experience across many fan-favourite games*
 - **Pokémon Based Application:** I am a massive fan of Pokémon and would like to make sort of Pokedex application that gives more insight into the competitive side of things giving tips and tricks for each format
-    - This will be made as a cross platform application so will probably use **Flutter** or **React Native** as the framework with a **Firebase** database
+    - *This will be made as a cross platform application so will probably use **Flutter** or **React Native** as the framework with a **Firebase** database*
 
 ## Fun trivia about me
 
