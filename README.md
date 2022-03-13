@@ -25,13 +25,15 @@ My name is James O'Neill and I'm a software developer from Ireland.
 
 ## Upcoming Projects
 
-- **Web Portfolio:** I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey
+- **Web Portfolio:** I aim to make a performant single page website to show potential employers and other developers the work I have done in my coding journey, this may also house a blog
+    - This will probably be made using the Astro or Next.js framework
 - **20 Games in 1:** I would like to make a mobile application that will hold a number of games that the whole family can play such as Connect 4, Checkers, Rock - Paper - Scissors etc.
-- **Twitch/Youtube Management Hub:** In the future, I plan on making some live gaming and programming content and would like some sort of application that has links to the chat, analytics etc. so I can better interact and keep track of the behind the scenes on the channel
-- **Pokémon Based Application:** I am a massive fan of Pokémon and would like to make sort of application that shows my love for the series
+    - This will be made as a cross platform application so will probably use **Flutter** and will be the one of first big ventures into mobile development with an aim to provide a mobile and tablet based experience across many fan-favourite games
+- **Pokémon Based Application:** I am a massive fan of Pokémon and would like to make sort of Pokedex application that gives more insight into the competitive side of things giving tips and tricks for each format
+    - This will be made as a cross platform application so will probably use **Flutter** or **React Native** as the framework with a **Firebase** database
 
 ## Fun trivia about me
 
 - I currently live in Ireland but plan on moving to the Nordics in the future
 - I have lived all my life with a speech impediment called a stammer
-- I am an avid gamer playing on both PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
+- I am an avid gamer playing on primarily PC and Nintendo based hardware. Some of my favourite game series of all time are Pokémon, Super Mario, Borderlands and Elder Scrolls
