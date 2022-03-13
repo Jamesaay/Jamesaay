@@ -1,4 +1,4 @@
-![Header Image](/images/Jamesaay.png "Header Image")
+![Header Image](/images/jamesaayBanner.png "Header Image")
 # Welcome folks <img src="/images/wave.gif" width="30px">
 
 My name is James O'Neill and I'm a software developer from Ireland.
