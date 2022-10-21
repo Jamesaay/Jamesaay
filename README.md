@@ -14,7 +14,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=45px/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width=45px/>          
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ijamesy&cover_image=false&theme=default&show_offline=true&bar_color=0080ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ijamesy&cover_image=true&theme=default&show_offline=true&bar_color=0080ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **Jamesaay/Jamesaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
