@@ -1,5 +1,7 @@
 ### ⚠️ Warning: Portfolio website is in development ⚠️
 
+![Cover](assets/Jamesay.png)
+
 -------------
 ### Skills
 
