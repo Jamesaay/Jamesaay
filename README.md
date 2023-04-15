@@ -1,4 +1,4 @@
-### ⚠️ Warning: Portfolio website is in development ⚠️
+
 
 ![Cover](assets/Jamesay.png)
 
@@ -21,8 +21,8 @@ I'm James O'Neill, a software developer from Ireland. Always coming up with new 
 -------------
 ### Upcoming Projects
 
-- **Web-Portifolio** -> IN-PROGRESS
-- **Mind Dump** -> IN-PROGRESS
+- **Web-Portifolio** -> ⚠️ IN-PROGRESS ⚠️
+- **Mind Dump** -> ⚠️ IN-PROGRESS ⚠️
 - **Backlog Destroyer**
 - **Pixel-Based Mythology Roguevania**
 - **Mario Kart PC Clone**
