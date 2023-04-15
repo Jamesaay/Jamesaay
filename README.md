@@ -6,7 +6,7 @@
 ### Skills
 
 - **Programming Languages:** Java, Gosu, Kotlin, C#, C++, Dart
-- **Game Engines:** Godot, Unity
+- **Game Engines:** Godot
 - **Frameworks:** Flutter, React Native
 - **Data Essentials:** Firebase, MongoDB, MySQL
 - **Backend:** AWS, GCP
