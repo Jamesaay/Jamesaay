@@ -8,8 +8,8 @@
 - **Programming Languages:** Java, Gosu, Kotlin, C#, C++, Dart
 - **Game Engines:** Godot, Unity
 - **Frameworks:** Flutter, React Native
-- **Data Essentials:** Firebase, MySQL, NoSQL
-- **Backend:** AWS, GCP, Django
+- **Data Essentials:** Firebase, MongoDB, MySQL
+- **Backend:** AWS, GCP
 - **Software Essentials:** Git, VSCode, IntelliJ, Windows, Linux
 - **Designing:** GIMP, Figma
 - **Other:** Microsoft Office, GitHub, Atlassian Product Suite
