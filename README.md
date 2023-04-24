@@ -10,12 +10,12 @@ I'm James O'Neill, a software developer from Ireland. Always coming up with new 
 ### Skills
 
 - **Programming Languages:** Java, Gosu, Kotlin, C#, C++, GoLang
-- **Game Engines:** Godot
-- **Frameworks:** Flutter, Ionic
+- **Game Engines:** Godot, Unity
+- **Frameworks:** Android SDK, Flutter
 - **Data Essentials:** Firebase, MongoDB, MySQL
 - **Backend:** AWS, GCP
 - **Software Essentials:** Git, VSCode, IntelliJ, Windows, Linux
-- **Designing:** GIMP, Figma
+- **Designing:** Figma
 - **Other:** Microsoft Office, GitHub, Atlassian Product Suite, Guidewire Insurance Suite
 
 -------------
