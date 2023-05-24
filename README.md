@@ -10,7 +10,6 @@ I'm a software developer from Ireland. With over 4 years in the insurance softwa
 ### Skills - Knowledgeable
 - **Programming Languages:** Java, Gosu, Kotlin
 - **Frameworks:** Android SDK
-- **Data Essentials:** MySQL
 - **Backend:** AWS
 - **Software Essentials:** Git, VSCode, IntelliJ, Windows
 - **Other:** Microsoft Office, GitHub, Atlassian Product Suite, Guidewire Insurance Suite
