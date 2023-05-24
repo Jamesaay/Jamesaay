@@ -8,7 +8,7 @@ I'm a software developer from Ireland. With over 4 years in the insurance softwa
 
 -------------
 ### Skills - Knowledgeable
-- **Programming Languages:** Java, Gosu, Kotlin, C#, C++, GoLang
+- **Programming Languages:** Java, Gosu, Kotlin
 - **Frameworks:** Android SDK
 - **Data Essentials:** MySQL
 - **Backend:** AWS
