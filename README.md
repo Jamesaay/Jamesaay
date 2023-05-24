@@ -4,7 +4,7 @@
 
 ### Who am I
 
-I'm James O'Neill, a software developer from Ireland. Always coming up with new ideas and then procrastinating when implementing them. With over 4 years in the insurance software implementation industry using a wide variety of technology including Java and AWS. A forward thinking indvidual who craves for new knowledge each day and a great team-worker who keeps the mood in the team high while always thinking about the end goal. I aim to branch out from this area to tackle more diverse and fufiling projects within the app development and gaming industries.
+I'm James O'Neill, a software developer from Ireland. Always plotting new ideas and then pr. With over 4 years in the insurance software implementation industry using a wide variety of technology including Java and AWS. A forward thinking indvidual who craves for new knowledge each day and a great team-worker who keeps the mood in the team high while always having the end goal in mind. I aim to branch out from this area to tackle more diverse and fufiling projects within the mobile app development and gaming spheres.
 
 -------------
 ### Skills - Knowledgeable
@@ -25,10 +25,10 @@ I'm James O'Neill, a software developer from Ireland. Always coming up with new 
 - **Designing:** Figma
 
 -------------
-### Upcoming Projects
+### Planned Projects
 
-- **Web-Portifolio** <!-- -> ⚠️ IN-PROGRESS ⚠️ -->
-- **Mind Dump** <!-- -> ⚠️ IN-PROGRESS ⚠️ -->
+- **Web-Portifolio** -- ⚠️ **IN-PROGRESS** ⚠️
+- **Mind Dump**
 - **Backlog Destroyer**
 - **Pixel-Based Mythology Roguevania**
-- **Mario Kart PC Clone**
+- **Kart Racer Clone**
