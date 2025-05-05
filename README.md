@@ -1,6 +1,6 @@
 
 
-![Cover](assets/Jamesay.png)
+![Cover](assets/githubbanner.png)
 
 ### Who am I
 
@@ -8,21 +8,17 @@ I'm a technologist from Ireland. With 5 years in the insurance software implemen
 
 -------------
 ### Skills - Knowledgeable
-- **Programming Languages:** Java, Gosu, SQL, MySQL
-- **Backend:** AWS
-- **Software Essentials:** Git, VSCode, IntelliJ, Windows
-- **Other:** Microsoft Office, GitHub, Atlassian Product Suite, Guidewire Insurance Suite
+- **Programming Languages:** WIP
+- **Backend:** WIP
+- **Software Essentials:** WIP
+- **Other:** WIP
 
 ### Skills - Learning
-- **Programming Languages:** GDScript, C#, Kotlin, Dart
-- **Game Engines:** Godot
-- **Frameworks:** Flutter, Astro
-- **Software Essentials:** Linux
+- **Programming Languages:** WIP
+- **Game Engines:** WIP
+- **Frameworks:** WIP
+- **Software Essentials:** WIP
 
 -------------
 ### Planned Projects
-
-- **Web-Portifolio** -- ⚠️ **IN-PROGRESS** ⚠️
-- **Backlog Destroyer**
-- **Mythology Metroidvania**
-- **Arcade Kart Racer**
+- **WIP**
